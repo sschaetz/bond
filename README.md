@@ -96,6 +96,7 @@ packages using Homebrew ([http://brew.sh/](http://brew.sh/)):
         ghc \
         cabal-install \
         boost \
+        rapidjson \
         boost-python
 
 (boost-python is optional and only needed for Python support.)
